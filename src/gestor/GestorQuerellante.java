@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Gestor;
+package gestor;
 
-import Multi.MultiQuerellante;
-import Objetos.Querellante;
+import multi.MultiQuerellante;
+import objetos.Querellante;
 import java.sql.SQLException;
 import java.util.ArrayList;
 

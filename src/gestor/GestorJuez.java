@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Gestor;
+package gestor;
 
-import Multi.MultiJuez;
-import Objetos.Juez;
+import multi.MultiJuez;
+import objetos.Juez;
 import java.sql.SQLException;
 import java.util.ArrayList;
 

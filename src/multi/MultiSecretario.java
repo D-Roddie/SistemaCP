@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Multi;
+package multi;
 
 import com.acceso.Conector;
-import Objetos.Secretario;
+import objetos.Secretario;
 import com.acceso.AccesoBD;
 import java.sql.ResultSet;
 import java.util.ArrayList;
